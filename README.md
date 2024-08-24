@@ -15,4 +15,5 @@
     Required only if we want certain amount of data 
 # Api to fetch Supplier data based on location , nature of business and manufacturing_process --- http://localhost:8080/api/supplier/query?location=China&nature=medium scale&process=moulding&page=2&per_page=3
   page and per_page resquest parm isnot manditory 
+  
   Required only if we want certain amount of data
